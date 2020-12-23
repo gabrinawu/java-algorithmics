@@ -1,6 +1,6 @@
-package basic;
+package variableAndDataType;
 
-public class VariableTest {
+public class Variable01 {
 
 	public static void main(String[] args) {
 		int age;

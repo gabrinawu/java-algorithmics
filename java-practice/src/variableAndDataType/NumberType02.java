@@ -1,6 +1,6 @@
-package basic;
+package variableAndDataType;
 
-public class NumberType {
+public class NumberType02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
